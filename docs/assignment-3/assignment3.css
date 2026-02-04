@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 40px;
+}
+
+h2 {
+  color: #333;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 22px;
+  padding: 15px;
+  border-radius: 8px;
+  width: fit-content;
+}
+
+/* Temperature styles */
+.hot {
+  background-color: #ffe0e0;
+  border: 2px solid #cc0000;
+  color: #990000;
+}
+
+.cold {
+  background-color: #e0f0ff;
+  border: 2px solid #0055cc;
+  color: #003366;
+}
+
+.mild {
+  background-color: #e6ffe6;
+  border: 2px solid #339933;
+  color: #1f661f;
+}
